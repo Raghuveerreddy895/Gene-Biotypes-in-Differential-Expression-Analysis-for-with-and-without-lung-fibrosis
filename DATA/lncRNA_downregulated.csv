@@ -1,0 +1,2 @@
+"ensembl_gene_id","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","external_gene_name","description","gene_biotype","Status","Regulated_Biotype"
+"ENSG00000175170",11.3146443408223,-1.03450807678629,0.207593180168251,-4.98334326757668,6.24949379125576e-07,2.17684679688481e-06,"FAM182B","family with sequence similarity 182 member B [Source:HGNC Symbol;Acc:HGNC:34503]","lncRNA","Downregulated","Downregulated_lncRNA"
