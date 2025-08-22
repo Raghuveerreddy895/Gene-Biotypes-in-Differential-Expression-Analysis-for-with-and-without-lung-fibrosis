@@ -2,6 +2,8 @@
 n this project, we analyze genes based on both their expression behavior (Upregulated, Downregulated, Unexpressed, or Not Significant) and their functional biotype as annotated in Ensembl.  This helps us not only identify which genes are changing between conditions, but also understand what kinds of genes they are — whether they encode proteins, regulate other genes, or belong to small RNA classes with specialized roles.
 # Gene Biotypes in DEG Analysis
 
+Data sets accesion ID GSE213001
+
 This project classifies genes based on both **differential expression status** 
 (Upregulated, Downregulated, Unexpressed, Not Significant) 
 and **Ensembl biotype**.
