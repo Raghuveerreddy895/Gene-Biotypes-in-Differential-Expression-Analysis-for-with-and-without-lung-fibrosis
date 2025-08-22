@@ -1,0 +1,2 @@
+# Gene Biotypes in Differential Expression Analysis for with and without lung fibrosis
+n this project, we analyze genes based on both their expression behavior (Upregulated, Downregulated, Unexpressed, or Not Significant) and their functional biotype as annotated in Ensembl.  This helps us not only identify which genes are changing between conditions, but also understand what kinds of genes they are — whether they encode proteins, regulate other genes, or belong to small RNA classes with specialized roles.
